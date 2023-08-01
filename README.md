@@ -2,3 +2,5 @@
 
 
 分为request、response、paser和download四个部分
+
+重点在于解析得到想要的数据
